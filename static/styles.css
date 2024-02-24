@@ -11,12 +11,6 @@ body,ul{
   a:hover{
     color:gray;
   }
-  #logo{
-    font-size:1.5rem;
-    font-weight:bold;
-     background: -webkit-linear-gradient(white, #38495a);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
   }
   #header{
     box-sizing:border-box;
